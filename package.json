@@ -1,0 +1,24 @@
+{
+  "name": "test-utilities",
+  "version": "1.0.0",
+  "description": "Utility scripts to streamline fetching data from Jira issues and automated test execution results and more.",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuongdv/test-utilities.git"
+  },
+  "author": "thuongdv1011@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thuongdv/test-utilities/issues"
+  },
+  "homepage": "https://github.com/thuongdv/test-utilities#readme",
+  "devDependencies": {
+    "@playwright/test": "1.57.0",
+    "@types/node": "24.10.1",
+    "dotenv": "17.2.3",
+    "winston": "3.18.3"
+  }
+}
